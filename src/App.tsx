@@ -5,9 +5,9 @@ export const SINGLE_LIST = ['穹心'];
 
 export const LIST = ['林不渡', '穹心', '一茶'];
 
-type IInnerFunc = () => string;
+export type IInnerFunc = () => string;
 
-type IGlobalRef = {
+export type IGlobalRef = {
   [key: string]: IInnerFunc;
 };
 
