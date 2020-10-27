@@ -66,7 +66,6 @@ const Item: React.FC<{
 describe('useMultiImperativeHandle', () => {
   it('should work as useImperativeHandle when no convertion', () => {
     const invokeTracker = jest.fn();
-
     const Wrapper = mount(<App list={SINGLE_LIST} mockFunc={invokeTracker} />);
 
     expect(Wrapper.find(Item).length).toBe(1);
@@ -79,7 +78,6 @@ describe('useMultiImperativeHandle', () => {
 
   it('should work as useImperativeHandle when no convertion', () => {
     const invokeTracker = jest.fn();
-
     const Wrapper = mount(<App list={LIST} mockFunc={invokeTracker} />);
 
     expect(Wrapper.find(Item).length).toBe(3);
