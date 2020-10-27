@@ -1,9 +1,9 @@
 # useMultiImperativeHandle
 
-[![GitHub license](https://img.shields.io/github/license/PenumbraPro/useMultiImperativeHandle)](https://github.com/PenumbraPro/useMultiImperativeHandle/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/linbudu599/useMultiImperativeHandle)](https://github.com/linbudu599/useMultiImperativeHandle/blob/master/LICENSE)
 ![Codecov](https://img.shields.io/codecov/c/github/Penumbra/useMultiImperativeHandle)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/PenumbraPro/useMultiImperativeHandle/useMIH%20CI)
-![David](https://img.shields.io/david/dev/PenumbraPro/useMultiImperativeHandle?color=green&label=dependencies)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/linbudu599/useMultiImperativeHandle/useMIH%20CI)
+![David](https://img.shields.io/david/dev/linbudu599/useMultiImperativeHandle?color=green&label=dependencies)
 
 
 Enhanced `useImperativeHandle` on **Converting Objects Mount On Refs**:
