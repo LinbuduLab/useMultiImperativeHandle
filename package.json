@@ -45,7 +45,7 @@
     "jest": "^26.3.0",
     "jest-enzyme": "^7.1.2",
     "react-test-renderer": "^16.13.1",
-    "ts-jest": "^26.2.0",
+    "ts-jest": "^26.5.6",
     "ts-node": "^9.0.0"
   }
 }
